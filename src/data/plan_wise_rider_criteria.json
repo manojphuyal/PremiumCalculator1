@@ -1,0 +1,5 @@
+[{"RowId":1,"PlanId":1,"RiderId":"ADB","MinimumSA":5000.00,"MaximumSA":500000.00,"RiderMinTerm":5,"RiderMaxTerm":43,"MinAge":17,"MaxAge":60},
+{"RowId":18,"PlanId":2,"RiderId":"ADB","MinimumSA":100000.00,"MaximumSA":500000.00,"RiderMinTerm":5,"RiderMaxTerm":49,"MinAge":11,"MaxAge":65},
+{"RowId":5,"PlanId":5,"RiderId":"ADB","MinimumSA":100000.00,"MaximumSA":500000.00,"RiderMinTerm":5,"RiderMaxTerm":49,"MinAge":11,"MaxAge":60},
+{"RowId":14,"PlanId":6,"RiderId":"PWB","MinimumSA":100000.00,"MaximumSA":99999999.00,"RiderMinTerm":5,"RiderMaxTerm":15,"MinAge":1,"MaxAge":11},
+{"RowId":28,"PlanId":9,"RiderId":"ADB","MinimumSA":5000.00,"MaximumSA":500000.00,"RiderMinTerm":10,"RiderMaxTerm":42,"MinAge":18,"MaxAge":50}]
